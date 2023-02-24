@@ -1,6 +1,8 @@
 # v14-ozel-oda-djs
 ## Discord.js ile yapılmış v14 özel oda botu.
 
+### Yakında bütün özellikler eklenip paylaşılacak. Star atarsanız sevinirim. 😊
+
 <a href="https://discord.gg/clydev">
   <p align=center>
      TEK DEV CLYDEV
