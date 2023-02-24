@@ -32,4 +32,15 @@
   </p>
 </a>
 
-### Credit [Matrié](https://github.com/matr1e/secret-room-system) (Eski Hesabım)
+<a href="https://github.com/matr1e/secret-room-system">
+  <p align=center>
+    CREDIT Matrié (Eski Hesabım)
+  </p>
+</a>
+
+<a href="https://discord.gg/clydev">
+  <p align=center>
+     TEK DEV CLYDEV
+  </p>
+</a>
+
